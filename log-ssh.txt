@@ -1,0 +1,28 @@
+Jul 05 01:59:34 DESKTOP-QJDPLTJ sshd[167]: Server listening on 0.0.0.0 port 2000.
+Jul 05 01:59:34 DESKTOP-QJDPLTJ sshd[167]: Server listening on :: port 2000.
+Jul 05 02:03:03 DESKTOP-QJDPLTJ sshd[291]: Failed password for hardeka from 127.0.0.1 port 46890 ssh2
+Jul 05 02:03:03 DESKTOP-QJDPLTJ sshd[291]: Failed password for hardeka from 127.0.0.1 port 46890 ssh2
+Jul 05 02:03:03 DESKTOP-QJDPLTJ sshd[291]: Connection closed by authenticating user hardeka 127.0.0.1 port 46890 [preauth]
+Jul 05 02:04:59 DESKTOP-QJDPLTJ sshd[370]: Connection closed by authenticating user dicoding 127.0.0.1 port 48026 [preauth]
+Jul 05 02:04:59 DESKTOP-QJDPLTJ sshd[377]: Connection closed by authenticating user dicoding 127.0.0.1 port 48034 [preauth]
+Jul 05 02:05:10 DESKTOP-QJDPLTJ sshd[390]: Accepted password for dicoding from 127.0.0.1 port 48040 ssh2
+Jul 05 02:05:10 DESKTOP-QJDPLTJ sshd[390]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+Jul 05 02:05:10 DESKTOP-QJDPLTJ sshd[390]: pam_env(sshd:session): deprecated reading of user environment enabled
+Jul 05 02:05:10 DESKTOP-QJDPLTJ sshd[404]: Received disconnect from 127.0.0.1 port 48040:11: disconnected by user
+Jul 05 02:05:10 DESKTOP-QJDPLTJ sshd[404]: Disconnected from user dicoding 127.0.0.1 port 48040
+Jul 05 02:05:10 DESKTOP-QJDPLTJ sshd[390]: pam_unix(sshd:session): session closed for user dicoding
+Jul 05 02:05:37 DESKTOP-QJDPLTJ sshd[416]: Accepted publickey for dicoding from 127.0.0.1 port 57170 ssh2: RSA SHA256:qy54+WPEiNrjhbadn4F2WwbbuDLWRp84MiPfjXCAHMY
+Jul 05 02:05:37 DESKTOP-QJDPLTJ sshd[416]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+Jul 05 02:05:37 DESKTOP-QJDPLTJ sshd[416]: pam_env(sshd:session): deprecated reading of user environment enabled
+Jul 05 02:05:41 DESKTOP-QJDPLTJ sshd[430]: Received disconnect from 127.0.0.1 port 57170:11: disconnected by user
+Jul 05 02:05:41 DESKTOP-QJDPLTJ sshd[430]: Disconnected from user dicoding 127.0.0.1 port 57170
+Jul 05 02:05:41 DESKTOP-QJDPLTJ sshd[416]: pam_unix(sshd:session): session closed for user dicoding
+Jul 05 02:07:12 DESKTOP-QJDPLTJ sshd[167]: Received signal 15; terminating.
+Jul 05 02:07:12 DESKTOP-QJDPLTJ sshd[444]: Server listening on 0.0.0.0 port 2000.
+Jul 05 02:07:12 DESKTOP-QJDPLTJ sshd[444]: Server listening on :: port 2000.
+Jul 05 02:07:25 DESKTOP-QJDPLTJ sshd[450]: Accepted publickey for dicoding from 127.0.0.1 port 40934 ssh2: RSA SHA256:qy54+WPEiNrjhbadn4F2WwbbuDLWRp84MiPfjXCAHMY
+Jul 05 02:07:25 DESKTOP-QJDPLTJ sshd[450]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+Jul 05 02:07:25 DESKTOP-QJDPLTJ sshd[450]: pam_env(sshd:session): deprecated reading of user environment enabled
+Jul 05 02:07:28 DESKTOP-QJDPLTJ sshd[464]: Received disconnect from 127.0.0.1 port 40934:11: disconnected by user
+Jul 05 02:07:28 DESKTOP-QJDPLTJ sshd[464]: Disconnected from user dicoding 127.0.0.1 port 40934
+Jul 05 02:07:28 DESKTOP-QJDPLTJ sshd[450]: pam_unix(sshd:session): session closed for user dicoding
