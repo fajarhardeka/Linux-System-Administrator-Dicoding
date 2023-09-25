@@ -18,7 +18,7 @@ Fitur yang terdapat pada submission agar mendapat penilaian dengan bintang sempu
   
 ## Closing
 Bebas untuk menggunakan repository ini sebagai referensi tugas kamu!
-https://github.com/fajarhardeka/Linux-System-Administrator-Dicoding
+<h1>https://github.com/fajarhardeka/Linux-System-Administrator-Dicoding</h1>
 
 ### Author
 Fajar Hardeka (https://instagram.com/fajarhardeka)
